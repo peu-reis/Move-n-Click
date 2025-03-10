@@ -1,8 +1,7 @@
 import subprocess
 import sys
 import time
-import threading
-import random  # Importa a biblioteca random para gerar números aleatórios
+import random  #Importa a biblioteca random para gerar números aleatórios
 
 # Função para verificar e instalar a biblioteca pyautogui
 def instalar_pyautogui():
